@@ -43,13 +43,13 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "Hasta el infinito y más allá 🚀❤️💕",  // Shows when they go past 5000%
-        high: "Wooow eso si me gusta! 😍​💝",              // Shows when they go past 1000%
+        high: "Wooow si que me quieres mucho! 😍​💝",              // Shows when they go past 1000%
         normal: "Tan poquito?? 🥺​❤️​"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YEEEEEEEE! Ahora soy el chico más feliz del universo!! 🎉💝💖💝💓",
+        title: "YEEEEEEEE! Soy el chico más feliz del universo!! 🎉💝💖💝💓",
         message: "Nos vemos el sábado mi tallarinsito! ​💘​",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
